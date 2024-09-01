@@ -1,1 +1,85 @@
-# .github
+PAS-AGRO-PAS Project Overview
+================
+Research Team
+
+## Project Objective
+
+The **PAS-AGRO-PAS project** aims to enhance productivity, adaptiveness,
+sustainability, and profitability of agro-pastoral systems across eight
+Mediterranean countries. This goal is achieved through a systemic
+approach that leverages the multifunctionality of resilient
+agro-pastoralism.
+
+## Systemic Approach
+
+The project’s systemic approach involves an integrated evaluation from
+farm to global scales. This evaluation interlinks agro-ecosystem,
+socioeconomic components, and information systems to identify and
+overcome the stressors that impact the viability of agro-pastoralists.
+The overarching aim is to implement strategies that transition
+agro-pastoralism from fragile, subsistence-oriented systems to
+resilient, climate-adaptive, and more commercially oriented systems.
+
+### Multifunctionality of Agro-Pastoralism
+
+Multifunctionality refers to the broad range of goods and services,
+beyond food production, that this project will address. These include:
+
+- Maintenance of natural rangelands
+- Renewal of vegetation
+- Preservation of ecological integrity
+- Protection of endangered breeds
+- Valorization of typical products and quality certifications
+- Safeguarding of tacit knowledge on local ecosystems, flock management,
+  and rangeland practices
+
+## Research Network
+
+The project will investigate a network of ten agro-pastoral systems
+located in the Mediterranean and Atlantic biogeographical regions of
+Europe, as well as in the arid and semi-arid regions of Northern Africa.
+These systems will undergo characterization, diagnostics, strategy
+design, data analysis, and multi-actor knowledge exchange involving
+agro-pastoralists, decision-makers, and researchers.
+
+## Specific Objectives
+
+The six specific objectives (SO) of the PAS-AGRO-PAS project are:
+
+1.  **SO1**: Evaluate and monitor selected agro-pastoral production
+    systems. This includes assessing resources use, crops, forage,
+    pasture, rangeland, soil fertility, ecosystem services, animal
+    husbandry, food commercialization, socioeconomic factors, and
+    traditional knowledge. The goal is to identify constraints and
+    inform strategies for optimizing resources, improving productivity,
+    climate adaptiveness, and sustainability.
+
+2.  **SO2**: Improve the management and diversification of crop and
+    pasture production. This objective focuses on enhancing crop yield
+    and quality, soil fertility, and animal feed availability in the
+    short term, while rehabilitating rangelands and reducing
+    vulnerabilities to climate and land use changes in the long term.
+    Strategies include alley cropping, integrating forage legumes into
+    cereal crop rotations, vineyard and orchard grazing, and using
+    biodiverse pastures and drought-tolerant forage.
+
+3.  **SO3**: Increase the productivity of local breeds by better
+    managing diversified feeding systems based on grazing, feeding
+    cycles, herd mobility, reproduction, and health. The goal is to
+    create efficient and sustainable livestock systems, preserve
+    endangered breeds, and build adaptiveness to climate change.
+
+4.  **SO4**: Add value to agro-pastoral food products by enhancing
+    quality, safety, and typicity, and innovate selected food products.
+    This involves providing technical support to agro-pastoralists,
+    increasing their income, raising consumer awareness, and laying the
+    groundwork for quality certifications and novel product development
+    based on consumer feedback.
+
+5.  **SO5**: Raise the economic potential and generational renewal of
+    agro-pastoralism through product diversification, proper valuation
+    and pricing of food products, improved market access, fostering
+    economic interactions with cultivators, and capacity building via
+    smart platforms.
+
+6.  ## **SO6**: Promote the transition of traditional agro-pastoralism to the “Agriculture 4.0” era. This includes developing networked data collection systems, providing real-time information on traceability, resource use efficiency, and emissions, and creating web apps and platforms. All these will be developed through a multi-actor co-creation process integrating traditional ecological and scientific knowledge to support evidence-based quick reactions by agro-pastoralists and informed decision-making by policymakers.
