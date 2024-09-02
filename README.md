@@ -6,7 +6,7 @@ Research Team
 
 The **PAS-AGRO-PAS project** aims to enhance productivity, adaptiveness,
 sustainability, and profitability of agro-pastoral systems across eight
-Mediterranean countries. This goal is achieved through a systemic
+Mediterranean countries. This goal will be achieved through a systemic
 approach that leverages the multifunctionality of resilient
 agro-pastoralism.
 
@@ -82,4 +82,13 @@ The six specific objectives (SO) of the PAS-AGRO-PAS project are:
     economic interactions with cultivators, and capacity building via
     smart platforms.
 
-6.  ## **SO6**: Promote the transition of traditional agro-pastoralism to the “Agriculture 4.0” era. This includes developing networked data collection systems, providing real-time information on traceability, resource use efficiency, and emissions, and creating web apps and platforms. All these will be developed through a multi-actor co-creation process integrating traditional ecological and scientific knowledge to support evidence-based quick reactions by agro-pastoralists and informed decision-making by policymakers.
+6.  **SO6**: Promote the transition of traditional agro-pastoralism to
+    the “Agriculture 4.0” era. This includes developing networked data
+    collection systems, providing real-time information on traceability,
+    resource use efficiency, and emissions, and creating web apps and
+    platforms. All these will be developed through a multi-actor
+    co-creation process integrating traditional ecological and
+    scientific knowledge to support evidence-based quick reactions by
+    agro-pastoralists and informed decision-making by policymakers.
+
+------------------------------------------------------------------------
