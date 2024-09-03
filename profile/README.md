@@ -1,5 +1,4 @@
 ## The Making of Fragile Agro-ecosystems Productive, Adaptive and Sustainable: Multifunctional Agro-pastoralism
- <a href='https://github.com/vcadavez/PAS-AGRO-PAS'><img src='./img/hex-logo.png' align="right" height="138.5" /></a>
 
 This repository gathers all outputs produced by the PRIMA EU-funded project: [The Making of Fragile Agro-ecosystems Productive, Adaptive and Sustainable: Multifunctional Agro-pastoralism (PAS-AGRO-PAS)](https://prima-med.org/what-we-do/years/funded-projects-2022/).
 
