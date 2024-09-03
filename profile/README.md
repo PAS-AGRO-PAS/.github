@@ -4,11 +4,11 @@ This repository gathers all outputs produced by the PRIMA EU-funded project: [Th
 
 The [PAS-AGRO-PAS GitHub community [https://github.com/vcadavez/PAS-AGRO-PAS](https://github.com/PAS-AGRO-PAS/.github/)(https://github.com/PAS-AGRO-PAS/.github/) involves protocols, technical and scientific articles, and datasets on:
 
-i.  Agro-pastoral production systems;
-ii. Management and diversification of crop and pasture production;
-iii. Productivity of livestock local breeds;
-iv. Raise the economic potential and generational renewal of agro-pastoralism; and 
-v. Promote the transition of traditional agro-pastoralism to the `Agriculture 4.0`.
+*  Agro-pastoral production systems;
+*  Management and diversification of crop and pasture production;
+*  Productivity of livestock local breeds;
+*  Raise the economic potential and generational renewal of agro-pastoralism; and
+*  Promote the transition of traditional agro-pastoralism to the `Agriculture 4.0`.
 
 ________________________
 
