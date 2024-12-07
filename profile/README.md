@@ -2,7 +2,7 @@
 
 This repository gathers all outputs produced by the PRIMA EU-funded project: [The Making of Fragile Agro-ecosystems Productive, Adaptive and Sustainable: Multifunctional Agro-pastoralism (PAS-AGRO-PAS)](https://prima-med.org/what-we-do/years/funded-projects-2022/).
 
-The PAS-AGRO-PAS GitHub community [https://github.com/vcadavez/PAS-AGRO-PAS](https://github.com/PAS-AGRO-PAS/.github/) involves protocols, technical and scientific articles, and datasets on:
+The PAS-AGRO-PAS GitHub community ([https://github.com/vcadavez/PAS-AGRO-PAS](https://github.com/PAS-AGRO-PAS/.github/)) involves protocols, technical and scientific articles, and datasets on:
 
 *  Agro-pastoral production systems;
 *  Management and diversification of crop and pasture production;
