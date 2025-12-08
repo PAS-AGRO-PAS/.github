@@ -91,4 +91,16 @@ The six specific objectives (SO) of the PAS-AGRO-PAS project are:
     scientific knowledge to support evidence-based quick reactions by
     agro-pastoralists and informed decision-making by policymakers.
 
+## Regenerating documentation
+
+- Install R packages once: `install.packages(c("rmarkdown", "knitr"))`.
+- Render the narrative: `rmarkdown::render("Agropastoralism.Rmd")` (uses
+  `agropastoralism.bib` and `apa.csl`).
+- Refresh this overview: `rmarkdown::render("README.Rmd")`.
+- Outputs overwrite the corresponding `.md` files for GitHub view.
+
+## License
+
+Content is released under CC0 1.0 (see `LICENSE`).
+
 ------------------------------------------------------------------------
