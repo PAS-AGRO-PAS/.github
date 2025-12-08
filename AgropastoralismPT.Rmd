@@ -1,0 +1,69 @@
+---
+title: "Projeto PAS-AGRO-PAS: Visão Geral e Objetivos"
+author: "Vasco Cadavez & Ursula Gonzales Barron"
+date: "2024-07-01"
+output:
+  html_document:
+    css: styles.css
+    toc: true
+    toc_depth: 3
+bibliography: agropastoralism.bib
+csl: apa.csl  # Or any other citation style file you prefer
+---
+
+## Introdução
+
+O agro-pastoralismo é uma forma tradicional de gestão territorial em áreas marginais da região Mediterrânica, que contribui para segurança alimentar e o sustento de milhares de famílias. Esta actividade gera emprego e rendimento, bem como é uma estratégia eficaz de uso da terra para as regiões de montanha, terras secas e ilhas que cobrem aproximadamente metade da região Euro-Mediterrânica [@FAO2020].
+
+No entanto, o agro-pastoralismo moderno enfrenta riscos e uma grande imprevisibilidade, não apenas devido a factores ecológicos e de mudança climática, mas também a estressores políticos, comerciais e administrativos. No nível de produção, as fazendas agro-pastoris sofrem com deficiências estruturais e institucionais, incluindo baixa produtividade, altos custos de produção devido à produção limitada de ração, mudanças no uso da terra, abandono, envelhecimento da população e marketing inadequado [@Nori2017]. Esses problemas inter-relacionados exigem soluções que aproveitem a multifuncionalidade do agro-pastoralismo e melhorem a produtividade, adaptabilidade e sustentabilidade por meio de uma abordagem sistêmica.
+
+## Mudança Climática e Agro-Pastoralismo
+
+Embora a mudança climática represente uma ameaça séria aos sistemas agro-pastoris, o próprio agro-pastoralismo é um ativo valioso no combate às mudanças climáticas. Isso é alcançado por meio da implementação de intervenções agrícolas inteligentes para o clima, que aumentam a resiliência e a intensificação ecológica [@Kgosikoma2018]. Apesar dos desafios, os produtos e serviços agro-pastoris, como produção orgânica, biodiversidade, serviços ecossistêmicos, paisagem e cultura, e alimentos de qualidade, têm se tornado cada vez mais valorizados pela sociedade. Um número crescente de consumidores é mais atraído por alimentos tradicionais de sistemas naturais do que por aqueles provenientes de métodos de produção intensiva. A disposição dos consumidores de pagar mais por qualidade pode compensar a menor produtividade agrícola [@Pardini2011].
+
+## Escopo do Projeto
+
+O projeto PAS-AGRO-PAS aborda o Tópico 2.2.1-2022 (RIA) "Melhorando a sustentabilidade do agro-pastoralismo na Região Mediterrânea sob mudanças climáticas" ao enfrentar as atuais restrições e os efeitos das mudanças climáticas usando uma abordagem sistêmica. O projeto maximiza a multifuncionalidade do agro-pastoralismo enquanto aprimora a **Produtividade**, **Adaptabilidade** e **Sustentabilidade** para criar sistemas mais resilientes e lucrativos.
+
+### Escalas do Projeto
+
+1. **Escala da Fazenda**:
+    - **Ações**:
+        - Aumentar a produtividade e a diversificação de animais e culturas.
+        - Melhorar o manejo do pastoreio.
+        - Introduzir forrageiras e culturas tolerantes à seca.
+        - Recuperar pastagens degradadas semeando variedades adaptadas usando misturas de sementes biodiversas para estimular gramíneas diversas e melhorar o ciclo de nutrientes e a produtividade das plantas.
+        - Melhorar a fertilidade do solo e a produtividade das culturas através do tratamento eficiente do esterco.
+        - Proteger raças locais em perigo.
+        - Melhorar a produtividade dos ruminantes através do controle aprimorado da reprodução e saúde, alimentação e estratégias nutricionais.
+    - **Foco**: Estratégias ambientalmente amigáveis (C, N, pegada geral de GEE) que aumentam a adaptabilidade às mudanças climáticas.
+
+2. **Escala Regional**:
+    - **Ações**:
+        - Transmitir ao longo da cadeia de alimentos o valor implícito dos produtos agro-pastoris.
+        - Fortalecer a garantia de qualidade e segurança dos alimentos típicos.
+        - Explorar a característica "saudável" comercializável dos alimentos produzidos com métodos ambientalmente amigáveis.
+        - Integrar produtos nos mercados e consolidar a identidade das comunidades agro-pastoris mediterrâneas.
+
+3. **Escala Global**:
+    - **Ações**:
+        - Abordar a atual escassez de informações sobre agro-pastoralismo [@FAO2020] através da sistematização de dados disponíveis, literatura, avaliações, resultados de pesquisa, modelos e aplicativos da web. Isso promove a transição para a "Agricultura 4.0" e informa decisões baseadas em evidências para agro-pastoristas e formuladores de políticas.
+        - Desenvolver capacidades entre os agro-pastoristas para implementar sistemas mais produtivos, inteligentes para o clima, resilientes e lucrativos no Mediterrâneo.
+        - Aumentar a conscientização dos consumidores e promover condições atraentes para novas gerações locais e migrantes.
+
+## Estudos de Caso dos Sistemas Agro-Pastoris Mediterrâneos
+
+Abaixo está uma tabela (Tabela 1.1) que descreve as características dos sistemas de produção agro-pastoril do Mediterrâneo a serem investigados no projeto PAS-AGRO-PAS:
+
+| País         | Região/Zona Ecológica/Precipitação                                                | Gado/Raça                          | Tamanho do Rebanho                                                    | População / Raça em Perigo?                                                                                  | Sistema de Cultivo                                                                                     | Resíduos de Cultura / Suplemento                          | Acesso a Mercados / Produtos / PDO?                                                                                                      |
+|--------------|-----------------------------------------------------------------------------------|------------------------------------|-----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| **Portugal** | Região: Tras-Os-Montes Zona: Mediterrânea 508 mm/ano                              | Ovinos: Churra Badana              | 80-100 cabeças/rebanho                                                | ~2700 cabeças, raça em perigo                                                                               | Olival com culturas de cobertura, trevos subterrâneos, trevos anuais, serradela                        | Bagaço de azeitona e subprodutos da oliveira              | Mercados: bom acesso Produtos: carne de cordeiro, leite, queijo; nenhum com PDO                                                          |
+| **Chipre**   | Ilha de Chipre Zona: Mediterrânea 370 mm/ano                                      | Ovinos e caprinos                  | 100 – 500 ovelhas ou cabras por rebanho                               | ~5000 adultos, raça em perigo                                                                               | Olival com culturas de cobertura, trevos subterrâneos, trevos anuais                                   | Bagaço de azeitona e subprodutos da oliveira              | Mercados: bom acesso Produtos: carne de cordeiro e cabrito, leite, queijo Halloumi (com PDO)                                             |
+| **Egito**    | Zona Costeira do Deserto Ocidental, com áreas irrigadas recuperadas; <140 mm/ano  | Ovinos: Barky Caprinos: Barky      | Ovinos: 100-200 cabeças/rebanho Caprinos: 30-60 cabeças/rebanho       | Meio milhão cada; raça não em perigo                                                                       | Pastagens, figueiras e oliveiras com cevada/forrageiras e culturas de rendimento nas áreas recuperadas | Restolho de cevada e resíduos de árvores frutíferas       | Mercados: acesso razoável Produtos: cabritos, lã, peles, leite, carne de carneiro, carne de cabra                                        |
+| **França**   | PACA e Occitânia / Mediterrâneo 450-1000 mm/ano                                   | Ovinos e caprinos                  | Ovinos: 350 cabeças/rebanho Caprinos: 100 cabeças/rebanho             | Raça não em perigo                                                                                          | Pastagem, cultura forrageira, vinhedo, pomar                                                           | N/A                                                       | Mercados: acesso razoável Produtos: carne, queijo sem PDO                                                                               |
+| **Itália**   | Montanhas e colinas da Sardenha Zona: Mediterrânea 550-700 mm/ano                 | Ovinos leiteiros da raça Sarda     | >100 ovelhas/rebanho                                                 | ~2,6 milhões de cabeças; raça não em perigo                                                                | Meriagos (pastagens ricas em carvalhos ou vegetação arbustiva) com gramíneas e leguminosas             | Cereais, restolho de pastagens, restolho de cereais        | Mercados: bom acesso Produtos: cordeiros de leite (IGP Cordeiro da Sardenha), queijo com 3 PDO: Fiore, Pecorino Romano, Pecorino Sardo  |
+| **Marrocos** | IAV: Rehamna-Elkalaa; Zona semiárida 200-300 mm/ano                               | Ovinos: Sardi                      | 40-100 cabeças/rebanho                                                | Pelo menos um milhão, raça não em perigo                                                                    | Cereais, olival                                                                                        | Grãos de cereais, subprodutos industriais                 | Mercados: acesso justo Produtos: carne; sem rótulos de qualidade                                                                         |
+| **Marrocos** | UIZ: Sous-Massa Zona semiárida 70-350 mm/ano                                      | Caprinos dos bosques de argan      | 60-100 cabeças/rebanho                                                | 350.000 cabeças                                                                                            | Folhagem e frutos das árvores de argan                                                                 | Bagaço de argan                                              | Mercados: acesso justo Produtos: carne; sem rótulos de qualidade                                                                         |
+| **Espanha**  | Região: Galícia (Noroeste de Espanha) Zona: Atlântica & Mediterrânea 1180 mm/ano  | Ovinos: Galega Caprinos: Galega    | Ovinos 40-80 cabeças/rebanho Caprinos 30-50 cabeças/rebanho           | Ovinos: ~6000 ovelhas Galegas Caprinos: ~1500 cabras Galegas, raça em perigo                                | Misturas de trevos, azevém italiano, serradela francesa                                               | Bagaço de vinho, bagaço de maçã, grão de cervejeiro        | Mercados: restauração, canal local e mercados locais Produtos: carne, leite, queijo; nenhum com PDO                                      |
+| **Espanha**  | Região: Castilla y León (Noroeste de Espanha) Mediterrânea (inverno frio / verão seco) 436 mm/ano | Ovinos: Churra Ovinos: Castellana | 500-600 ovelhas/rebanho 250-280 ovelhas/rebanho                       | 360.000 adultos Raça protegida 350.000 adultos Raça protegida                                              | Cereal, leguminosas Agroflorestas: dehesa, florestas de pinheiro/carvalho (marginal)                   | Pastoreio de restolho (marginal), resíduos de colza e de cenoura | Mercados: bom acesso Produtos: carne de cordeiro, queijo, produtos PDO                                                                    |
+| **Tunísia**  | Regiões: Beni Khedèche, Ghomrassen, Djerba e Beni Mhira Zonas áridas 100-200 mm/ano | Camelo: Maghrebi Caprinos: raças locais e cruzadas Ovinos: raças locais e cruzadas | Camelo: 6-20 cabeças/rebanho Caprinos: 10-30 cabeças/rebanho Ovinos: 40-80 cabeças/rebanho | Camelo: 3000 cabeças Camelos Maghrebi Caprinos: Maltaise em raça em perigo, raça local (2000), cruzados (2000) Ovinos: 3000 cabeças | Regiões: Beni Kedèche: figueiras e oliveiras, Djerba: oliveiras/palmeiras Beni Mhira: espécies espontâneas (Stipa pungens) | Bagaço de azeitona, resíduos de oliveira e figueira Subprodutos de palma, feno local (khortan), farelo | Mercados: bom                                                                                                                             |

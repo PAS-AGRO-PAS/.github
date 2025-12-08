@@ -1,0 +1,25 @@
+/* Change the color of reference links */
+  a {
+    color: #1E90FF; /* DodgerBlue */
+      text-decoration: none; /* Remove underline */
+  }
+
+a:hover {
+  color: #FF4500; /* OrangeRed when hovered */
+    text-decoration: underline; /* Underline when hovered */
+}
+
+/* Keep wide tables readable */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  display: block;
+  overflow-x: auto;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 6px 8px;
+  vertical-align: top;
+  white-space: normal;
+}

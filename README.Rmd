@@ -23,9 +23,25 @@ Multifunctionality refers to the broad range of goods and services, beyond food 
 - Valorization of typical products and quality certifications
 - Safeguarding of tacit knowledge on local ecosystems, flock management, and rangeland practices
 
-## Research Network
+## Research Team & Network
 
 The project will investigate a network of ten agro-pastoral systems located in the Mediterranean and Atlantic biogeographical regions of Europe, as well as in the arid and semi-arid regions of Northern Africa. These systems will undergo characterization, diagnostics, strategy design, data analysis, and multi-actor knowledge exchange involving agro-pastoralists, decision-makers, and researchers.
+
+
+| Participant   | PI Name                | Organisation                                                | Country   |
+|---------------|------------------------|-------------------------------------------------------------|-----------|
+| Coordinator   | Vasco Cadavez         | Instituto Politécnico de Bragança (IPB)                     | Portugal  |
+| Partner 1     | Ouranios Tzamaloukas  | Cyprus University of Technology (ECoE)                      | Cyprus    |
+| Partner 2     | Adel Aboulnaga        | Animal Production Research Institute (APRI)                 | Egypt     |
+| Partner 3     | Amandine Lurette      | Systèmes d'Elevage Méditerranéens et Tropicaux (SELMET)     | France    |
+| Partner 4     | Laurence Puillet      | Modélisation Systémique Appliquée aux Ruminants (MoSAR)     | France    |
+| Partner 5     | Antonello Canas       | Università degli Studi di Sassari (UNISS)                   | Italy     |
+| Partner 6     | Abdelilah Araba       | Institut Agronomique et Vétérinaire Hassan II (IAV)         | Morocco   |
+| Partner 7     | Fouad Achemchem       | Ibn Zohr University (UIZ)                                   | Morocco   |
+| Partner 8     | José Manuel Lorenzo   | Centro Tecnológico de la Carne (CTC)                        | Spain     |
+| Partner 9     | Raúl Bodas            | Instituto Tecnológico Agrario de Castilla y León (ITACyL)   | Spain     |
+| Partner 10    | Halima Elhatmi       | Arid Zone Research Institute (IRA)                          | Tunisia   |
+
 
 ## Specific Objectives
 
@@ -42,5 +58,15 @@ The six specific objectives (SO) of the PAS-AGRO-PAS project are:
 5. **SO5**: Raise the economic potential and generational renewal of agro-pastoralism through product diversification, proper valuation and pricing of food products, improved market access, fostering economic interactions with cultivators, and capacity building via smart platforms.
 
 6. **SO6**: Promote the transition of traditional agro-pastoralism to the "Agriculture 4.0" era. This includes developing networked data collection systems, providing real-time information on traceability, resource use efficiency, and emissions, and creating web apps and platforms. All these will be developed through a multi-actor co-creation process integrating traditional ecological and scientific knowledge to support evidence-based quick reactions by agro-pastoralists and informed decision-making by policymakers.
+
+## Rendering
+
+Regenerate the published outputs after edits to keep HTML/MD in sync:
+
+- `Rscript -e "rmarkdown::render('Agropastoralism.Rmd')"`
+- `Rscript -e "rmarkdown::render('AgropastoralismPT.Rmd')"`
+- `Rscript -e "rmarkdown::render('CaseStudies.Rmd')"`
+- `Rscript -e "rmarkdown::render('Deliverables.Rmd')"`
+- `Rscript -e "rmarkdown::render('README.Rmd')"`
 
 ---

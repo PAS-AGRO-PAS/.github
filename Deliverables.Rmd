@@ -1,0 +1,57 @@
+---
+title: "Deliverables"
+author: "Vasco Cadavez & Ursula Gonzales Barron"
+date: "2024-09-02"
+output:
+  html_document:
+    css: styles.css
+    toc: true
+    toc_depth: 3
+---
+## List of Deliverables
+
+| Nº   | Deliverable name                                | WP | Leader  | Type  | Level | Due date |
+|------|-------------------------------------------------|----|---------|-------|-------|----------|
+| D1.1 | The PAS-AGRO-PAS Pack of Methods                | 1  | IPB     | DEM   | CO    | M8       |
+| D1.2 | The full PAS-AGRO-PAS Pack of Methods           | 1  | IPB     | DEM   | CO    | M28      |
+| D2.1 | Common conceptual model of agro-pastoral systems| 2  | SELMET  | DEM   | PU    | M4       |
+| D2.2 | Resource allocation models for current systems  | 2  | IPB     | DEM   | PU    | M10      |
+| D2.3 | Agro-ecosystem health assessments of the systems| 2  | IPB     | R     | PU    | M10      |
+| D2.4 | Transversal analysis of farms characterisation  | 2  | SELMET  | R     | PU    | M15      |
+| D3.1 | Formulas for feed blocks                        | 3  | IAV     | R     | PU    | M18      |
+| D3.2 | Efficacy of strategies on crop productivity/quality | 3  | ECoE    | R     | PU    | M26      |
+| D3.3 | Efficacy of strategies on pasture productivity/quality | 3  | IPB     | R     | PU    | M26      |
+| D3.4 | Efficacy of strategies on forage productivity/quality | 3  | IAV     | R     | PU    | M26      |
+| D3.5 | Predictive models for pastures, forage and crops | 3  | ECoE    | R     | PU    | M30      |
+| D4.1 | Strategies to be tested to improve livestock product | 4  | APRI    | R     | PU    | M6       |
+| D4.2 | Benchmarked productivity of non-intervened herds | 4  | APRI    | R     | CO    | M10      |
+| D4.3 | Animal health and welfare in the living labs    | 4  | ITACyL  | R     | PU    | M24      |
+| D4.4 | Efficacy of strategies on animal productivity   | 4  | APRI    | R     | PU    | M30      |
+| D4.5 | Predictive models for enhanced management       | 4  | SELMET  | R     | PU    | M34      |
+| D5.1 | Quality/safety of agropastoral foods pre-intervention | 5  | CTC     | R     | PU    | M14      |
+| D5.2 | 3 banks of functional LAB from agro-pastoral foods | 5  | IRA     | R     | CO    | M24      |
+| D5.3 | Quality of newly developed functional foods     | 5  | CTC     | R     | PU    | M26      |
+| D5.4 | Shelf-life models of agro-pastoral foods        | 5  | IPB     | DEM   | PU    | M32      |
+| D5.5 | Quality/safety agro-pastoral foods post-intervention | 5  | CTC     | R     | PU    | M34      |
+| D5.6 | Notebooks of quality requisites for labelling   | 5  | SELMET  | R     | PU    | M34      |
+| D6.1 | Pricing and profitability of agro-pastoral foods | 6  | UNISS   | R     | CO    | M22      |
+| D6.2 | Comparative evaluation and SWOT analysis        | 6  | UNISS   | R     | PU    | M26      |
+| D6.3 | Guidelines and strategic plan to improve policies | 6  | UNISS   | R     | PU    | M30      |
+| D6.4 | e-Commerce platform with first products         | 6  | UNISS   | DEC   | PU    | M32      |
+| D7.1 | Centralised database for data acquisition/storage | 7  | IPB     | Other | PU    | M12      |
+| D7.2 | PAS-AGRO-PAS e-platform half-way developed      | 7  | IPB     | DEC   | PU    | M24      |
+| D7.3 | PAS-AGRO-PAS e-platform with LCA and shinys     | 7  | IPB     | DEC   | PU    | M36      |
+| D8.1 | Communication plan                              | 8  | UIZ     | R     | PU    | M3       |
+| D8.2 | Draft of the Data management plan               | 8  | IPB     | R     | CO    | M5       |
+| D8.3 | First divulgation materials                     | 8  | IRA     | DEC   | PU    | M6       |
+| D8.4 | First version of the PAS-AGRO-PAS website       | 8  | UIZ     | DEC   | PU    | M7       |
+| D8.5 | Intermediate PEDR                               | 8  | IPB     | DEM   | CO    | M18      |
+| D8.6 | Final Data management plan                      | 8  | IPB     | R     | CO    | M28      |
+| D8.7 | Final PEDR                                      | 8  | IPB     | DEM   | CO    | M35      |
+| D8.8 | The PAS-AGRO-PAS Final Seminar                  | 8  | UIZ     | DEM   | PU    | M36      |
+
+**Legenda rápida**
+
+- **WP**: Work Package (pacote de trabalho)
+- **Type**: DEM (demonstração), DEC (comunicação/disseminação), R (relatório), Other (outros)
+- **Level**: PU (público), CO (confidencial)

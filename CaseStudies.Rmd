@@ -1,0 +1,70 @@
+---
+title: "Case Studies"
+author: "Vasco Cadavez & Ursula Gonzales Barron"
+date: "2024-09-02"
+output:
+  html_document:
+    css: styles.css
+    toc: true
+    toc_depth: 3
+---
+
+## Portuguese Case Study
+
+### Raça Ovina Badana
+
+#### Introdução
+
+A raça ovina **Churra Badana**, também conhecida simplesmente como **Badana**, é uma raça autóctone de ovinos originária de Portugal, mais especificamente da região de Trás-os-Montes. Esta raça destaca-se pela sua adaptabilidade a condições ambientais adversas e pela importância que tem nas tradições locais.
+
+#### Características da Raça
+
+##### Origem e Distribuição
+
+- **Origem:** A raça Churra Badana tem origem na região de Trás-os-Montes, no nordeste de Portugal.
+- **Distribuição:** A Churra Badana encontra-se predominantemente em Trás-os-Montes, com maior concentração nas áreas montanhosas de difícil acesso. A distribuição geográfica é limitada, contribuindo para o seu estatuto de raça em risco.
+
+##### Número de Animais
+
+- **População:** Estima-se que a população atual da Churra Badana seja de aproximadamente 2.700 animais. Esta baixa população coloca a raça em risco de extinção, sendo necessário implementar medidas de conservação para garantir a sua sobrevivência.
+
+##### Morfologia
+
+- **Tamanho:** Os ovinos da raça Badana são de porte médio.
+- **Peso Vivo Adulto:**
+  - **Machos:** O peso vivo dos carneiros adultos varia entre 60 e 70 kg.
+  - **Fêmeas:** As ovelhas adultas pesam entre 40 e 50 kg.
+- **Peso Vivo ao Nascimento:** Os cordeiros desta raça pesam em média entre 3 e 4 kg ao nascimento.
+- **Cor:** A lã é predominantemente branca, mas podem ocorrer manchas de cor mais escura na cabeça e nas extremidades.
+- **Cabeça:** A cabeça é geralmente pequena e delgada, com orelhas de tamanho médio e caídas.
+- **Corpo:** O corpo é bem proporcionado, com uma linha de dorso reta e membros robustos, adaptados a terrenos acidentados.
+
+##### Prolificidade e Fertilidade
+
+- **Prolificidade:** A Churra Badana apresenta uma taxa de prolificidade moderada, com uma média de 1,3 a 1,5 cordeiros por parto.
+- **Fertilidade:** A fertilidade das ovelhas Badana é considerada boa, com um elevado índice de prenhez, mesmo em condições ambientais adversas.
+
+##### Produção
+
+- **Lã:** A lã da Churra Badana é de qualidade média e tradicionalmente utilizada na produção de têxteis artesanais. Apesar de ter perdido importância económica, ainda é valorizada em nichos específicos de mercado.
+- **Carne:** A carne é o principal produto desta raça, sendo muito apreciada pela sua qualidade e sabor. Os cordeiros são abatidos geralmente com cerca de 3 a 4 meses de idade, atingindo pesos entre 18 e 22 kg.
+- **Leite:** Embora a produção de leite seja secundária, o leite das ovelhas Badana é ocasionalmente utilizado na produção de queijo artesanal, especialmente em áreas rurais.
+
+#### Estado de Conservação
+
+A raça Churra Badana é considerada uma raça em risco de extinção devido ao seu número reduzido e à limitada distribuição geográfica. Esforços de conservação têm sido realizados para preservar esta raça autóctone.
+
+##### Iniciativas de Conservação
+
+- **Programas de Criação:** Existem programas de conservação e criação seletiva que visam manter a pureza genética da raça e aumentar a sua população.
+- **Valorização de Produtos Típicos:** A promoção e valorização de produtos derivados da raça, como a carne e o queijo, são estratégias utilizadas para incentivar a criação e preservação da Churra Badana.
+
+#### Importância Cultural
+
+A Churra Badana não é apenas uma raça de ovinos; ela faz parte do património cultural de Trás-os-Montes. A criação desta raça está intimamente ligada ao modo de vida tradicional das comunidades locais e à preservação das paisagens rurais.
+
+#### Conclusão
+
+A raça ovina Churra Badana é um exemplo da riqueza genética e cultural que as raças autóctones trazem para a biodiversidade agrícola. A sua preservação é fundamental, não só pela sua adaptabilidade e qualidade dos produtos, mas também pela manutenção das tradições rurais em Portugal.
+
+---
