@@ -42,19 +42,19 @@ These systems will undergo characterization, diagnostics, strategy
 design, data analysis, and multi-actor knowledge exchange involving
 agro-pastoralists, decision-makers, and researchers.
 
-| Participant | PI Name | Organisation | Country |
-|----|----|----|----|
-| Coordinator | Vasco Cadavez | Instituto Politécnico de Bragança (IPB) | Portugal |
-| Partner 1 | Ouranios Tzamaloukas | Cyprus University of Technology (ECoE) | Cyprus |
-| Partner 2 | Adel Aboulnaga | Animal Production Research Institute (APRI) | Egypt |
-| Partner 3 | Amandine Lurette | Systèmes d’Elevage Méditerranéens et Tropicaux (SELMET) | France |
-| Partner 4 | Laurence Puillet | Modélisation Systémique Appliquée aux Ruminants (MoSAR) | France |
-| Partner 5 | Antonello Canas | Università degli Studi di Sassari (UNISS) | Italy |
-| Partner 6 | Abdelilah Araba | Institut Agronomique et Vétérinaire Hassan II (IAV) | Morocco |
-| Partner 7 | Fouad Achemchem | Ibn Zohr University (UIZ) | Morocco |
-| Partner 8 | José Manuel Lorenzo | Centro Tecnológico de la Carne (CTC) | Spain |
-| Partner 9 | Raúl Bodas | Instituto Tecnológico Agrario de Castilla y León (ITACyL) | Spain |
-| Partner 10 | Halima Elhatmi | Arid Zone Research Institute (IRA) | Tunisia |
+| Participant | PI Name              | Organisation                                              | Country  |
+|-------------|----------------------|-----------------------------------------------------------|----------|
+| Coordinator | Vasco Cadavez        | Instituto Politécnico de Bragança (IPB)                   | Portugal |
+| Partner 1   | Ouranios Tzamaloukas | Cyprus University of Technology (ECoE)                    | Cyprus   |
+| Partner 2   | Adel Aboulnaga       | Animal Production Research Institute (APRI)               | Egypt    |
+| Partner 3   | Amandine Lurette     | Systèmes d’Elevage Méditerranéens et Tropicaux (SELMET)   | France   |
+| Partner 4   | Laurence Puillet     | Modélisation Systémique Appliquée aux Ruminants (MoSAR)   | France   |
+| Partner 5   | Antonello Canas      | Università degli Studi di Sassari (UNISS)                 | Italy    |
+| Partner 6   | Abdelilah Araba      | Institut Agronomique et Vétérinaire Hassan II (IAV)       | Morocco  |
+| Partner 7   | Fouad Achemchem      | Ibn Zohr University (UIZ)                                 | Morocco  |
+| Partner 8   | José Manuel Lorenzo  | Centro Tecnológico de la Carne (CTC)                      | Spain    |
+| Partner 9   | Raúl Bodas           | Instituto Tecnológico Agrario de Castilla y León (ITACyL) | Spain    |
+| Partner 10  | Halima Elhatmi       | Arid Zone Research Institute (IRA)                        | Tunisia  |
 
 ## Specific Objectives
 
@@ -105,14 +105,53 @@ The six specific objectives (SO) of the PAS-AGRO-PAS project are:
     scientific knowledge to support evidence-based quick reactions by
     agro-pastoralists and informed decision-making by policymakers.
 
+## Documentation Sources
+
+This repository contains five R Markdown documentation sources:
+
+- `README.Rmd`: project overview, partners, and objectives; generates
+  `README.md`.
+- `Agropastoralism.Rmd`: background and case studies; generates
+  [Markdown](Agropastoralism.md) and [HTML](Agropastoralism.html).
+- `AgropastoralismPT.Rmd`: Portuguese overview; generates
+  [Markdown](AgropastoralismPT.md) and [HTML](AgropastoralismPT.html).
+- `CaseStudies.Rmd`: detailed case studies; generates
+  [HTML](CaseStudies.html).
+- `Deliverables.Rmd`: project deliverables; generates
+  [HTML](Deliverables.html).
+
+The organization profile is maintained separately in `profile/README.md`
+and is edited directly.
+
+The bibliography is maintained in `agropastoralism.bib`, citation
+formatting in `apa.csl`, and HTML styles in `styles.css`. Edit these
+sources and regenerate the published files together.
+
+In the development workspace, `github/` and the sibling `.github/`
+directory are separate local clones of the same `PAS-AGRO-PAS/.github`
+remote. Their working trees may differ. Make and validate each change in
+one checkout, then synchronize through Git; avoid maintaining copies by
+manually transferring generated files.
+
 ## Rendering
 
-Regenerate the published outputs after edits to keep HTML/MD in sync:
+Install R, Pandoc, and the `rmarkdown` R package
+(`install.packages("rmarkdown")`). Run the following command from this
+checkout’s root to render every root-level `.Rmd` source and regenerate
+all seven published files:
 
-- `Rscript -e "rmarkdown::render('Agropastoralism.Rmd')"`
-- `Rscript -e "rmarkdown::render('AgropastoralismPT.Rmd')"`
-- `Rscript -e "rmarkdown::render('CaseStudies.Rmd')"`
-- `Rscript -e "rmarkdown::render('Deliverables.Rmd')"`
-- `Rscript -e "rmarkdown::render('README.Rmd')"`
+``` sh
+Rscript -e "for (input in list.files(pattern = '[.]Rmd$')) rmarkdown::render(input, output_format = 'all')"
+```
+
+The `output_format = 'all'` option builds every configured format,
+including both HTML and Markdown for `Agropastoralism.Rmd` and
+`AgropastoralismPT.Rmd`. HTML previews for `github_document` are
+disabled so the Markdown build preserves each full HTML document,
+including its table of contents and styles.
+
+Before committing, review the generated files, confirm that citations
+and local links resolve, and include the updated sources and outputs in
+the same commit.
 
 ------------------------------------------------------------------------

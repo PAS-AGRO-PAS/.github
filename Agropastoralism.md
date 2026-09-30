@@ -105,8 +105,10 @@ PAS-AGRO-PAS project:
 | **Spain**    | Region: Castilla y León (NW Spain) Mediterranean (cold winter / dry summer) 436 mm/year | Sheep: Churra Sheep: Castellana                                            | 500-600 sheep/flock 250-280 sheep/flock                                 | 360,000 adults Protected breed 350,000 adults Protected breed                                                                  | Cereal, legumes Agroforestry: dehesa, pine/oak forests grazing (marginal)                                            | Stubble grazing (marginal), rapeseed residues, and carrot residues                   | Markets: good access Goods: lamb meat, cheese, PDO products                                                                 |
 | **Tunisia**  | Regions: Beni Khedèche, Ghomrassen, Djerba, and Beni Mhira Arid zones 100-200 mm/year   | Camel: Maghrebi Goat: local and cross breeds Sheep: local and cross breeds | Camel: 6-20 heads/herd Goat: 10-30 heads/flock Sheep: 40-80 heads/flock | Camel: 3000 heads Maghrebi camels Goat: Maltaise in endangered breed, local breed (2000), cross (2000) breed Sheep: 3000 heads | Regions: Beni Kedèche: fig and olive trees, Djerba: olive/palm trees Beni Mhira: spontaneous species (Stipa pungens) | Olive cake, Olive and fig trees residues Palm by-products, local hay (khortan), bran | Markets: good                                                                                                               |
 
+## References
+
 <div id="refs" class="references csl-bib-body hanging-indent"
-entry-spacing="0" line-spacing="2">
+line-spacing="2">
 
 <div id="ref-FAO2020" class="csl-entry">
 
